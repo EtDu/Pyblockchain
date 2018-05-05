@@ -3,6 +3,6 @@ This is a relatively simple implementation of a blockchain-type data structure u
 
 To do list:
 - implement proof of work
-- implement mining reqrds + transactions
+- implement mining rewards + transactions
 - implement wallets???
 
